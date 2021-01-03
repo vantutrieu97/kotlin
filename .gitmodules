@@ -1,7 +1,7 @@
 [submodule "kotlin_bootcamp"]
 	path = kotlin_bootcamp
 	url = https://github.com/vantutrieu97/kotlin_bootcamp.git
-[submodule "android_kotlin_jetpack"]
+[submodule "kotlin_jetpack"]
 	path = android_kotlin_jetpack
 	url = https://github.com/vantutrieu97/android_kotlin_jetpack.git
 [submodule "kotlin_dice_roller"]
